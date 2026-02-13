@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br><br>💻 Passionate about building web apps with Node.js, Express, and TypeScript<br><br>🧠 Currently learning AI/ML integration and exploring Hugging Face models<br><br>🚀 Working on projects like DevLens and experimenting with chatbot/AI assistants<br><br>📚 Love solving problems, learning new tools, and sharing knowledge<br><br>🌎 Open to collaborations on AI, backend systems, and open-source projects<br><br>⚡ Fun fact: I enjoy blending creativity + tech to build unique solutions
+About Me<br><br>💻 Passionate about building web apps with Node.js, Express, and TypeScript<br><br>🧠 Currently learning AI/ML integration and exploring Hugging Face models<br><br>🚀 Working on projects like E-comerce and experimenting with chatbot/AI assistants<br><br>📚 Love solving problems, learning new tools, and sharing knowledge<br><br>🌎 Open to collaborations on AI, backend systems, and open-source projects<br><br>⚡ Fun fact: I enjoy blending creativity + tech to build unique solutions
 
 
 ## 🌐 Socials:
